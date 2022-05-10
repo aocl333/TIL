@@ -2,10 +2,10 @@
 # type of 연산자
 
 - typeof는 변수의 데이터 타입을 반환하는 연산자입니다.
+<br>
 
 ### typeof 연산자 사용법
 
-<br>
 
 ```javascript
 typeof 값;
