@@ -4,12 +4,12 @@
 
 ## 입력
 
-인자 1 : interestRate
+### 인자 1 : interestRate
 
-- number 타입의 연이율 (%)
+number 타입의 연이율 (%)
 
 ## 출력
-- number 타입을 리턴해야 합니다.
+number 타입을 리턴해야 합니다.
 
 ## 입출력 예시
 
