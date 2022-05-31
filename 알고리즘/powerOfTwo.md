@@ -27,7 +27,6 @@ console.log(output2); // false
 ## 풀이
 ```javascript
 function powerOfTwo(num) {
-  // TODO: 여기에 코드를 작성합니다.
   if(num === 1){
     return true;
   }
