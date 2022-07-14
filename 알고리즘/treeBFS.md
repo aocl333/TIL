@@ -42,7 +42,6 @@ console.log(output); // --> [1, 2, 3, 4, 5, 7, 6]
 ## 풀이
 ```javascript
 let bfs = function (node) {
-  // TODO: 여기에 코드를 작성합니다.
   let queue = [node];
   const values = [];
   while (queue.length > 0) {
