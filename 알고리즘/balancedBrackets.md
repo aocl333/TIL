@@ -33,7 +33,7 @@ console.log(output); // // -> false
 output = balancedBrackets('()');
 console.log(output); // --> true
 ```
-##Advanced
+## Advanced
 ```javascript
 let output = balancedBrackets('[](){}');
 console.log(output); // --> true
